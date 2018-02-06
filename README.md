@@ -13,7 +13,7 @@
 ## select、poll和epoll
 **1. fd: File Descriptor(文件描述符)**
 **2. select 模型**
-  ![select](https://github.com/xiaobaojiang/xiaobaojiang.github.io/blob/master/images/select.png)
+  ![select](https://github.com/xiaobaojiang/xiaobaojiang.github.io/blob/master/trace.md)
 
 # [Vertx](vertx.io)
 **1. Vertx 是什么**
