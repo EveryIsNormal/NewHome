@@ -19,3 +19,6 @@
 
 ## Java 加载类机制
 ![alt 类加载机制](https://pic4.zhimg.com/80/v2-4face8109e0d52ef5894c41c69e4ec6b_hd.jpg)
+
+## 延申阅读
+https://www.guru99.com/java-reflection-api.html
